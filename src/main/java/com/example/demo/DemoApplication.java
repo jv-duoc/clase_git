@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Prendio la app! Wena");
+		System.out.println("App prendida");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
